@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1H65025TwN4pp9Fbn2fjIkjQ3TKWrfRsl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1t-jQvRlvzlTOBTVCRqs7Du9mTMNqJhCR'
 export_file_name = 'export.pkl'
 
 classes = ['almendras', 'avellanas', 'nueces']
